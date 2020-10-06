@@ -15,7 +15,7 @@
           <h5
             class="mb-3 lg:mb-2 uppercase tracking-wide font-bold text-sm lg:text-xs text-gray-500"
           >
-            开始学习
+            Get Start
           </h5>
         </div>
         <ul>
@@ -27,7 +27,7 @@
               <span
                 class="rounded absolute inset-0 bg-teal-200 opacity-25"
               ></span>
-              <span class="relative">介绍</span>
+              <span class="relative">Introduction</span>
             </a>
           </li>
         </ul>
